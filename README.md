@@ -1,17 +1,12 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
-# Hello World! I'm Ritesh Kaushik, an Aspiring AI Engineer 👋🏼
+![LinkedIn Banner](https://github.com/user-attachments/assets/92434b62-490b-4dd9-9f40-fa3632610eb9)
 
 📍 Based in Bengaluru, India 🇮🇳  
 🎓 B.Sc. Mathematics Graduate | Data Scientist | AI Enthusiast  
 💡 Passionate about AI, Machine Learning, and Data Science  
 📊 Exploring Deep Learning, NLP, and Generative AI  
-🎥 Sharing knowledge on my YouTube channel: **[Scientia Dose](https://www.youtube.com/@ScientiaDose)**  
-🚀 Currently working on ML & AI projects, including:
-- **Customer Transaction Prediction (PRCP-1003)**
-- **Home Loan Default - Risk Management (PRCP-1006)**
-- **Portuguese Bank Marketing Project (PRCP-1000)**
-- **Insurance Cost Prediction (PRCP-1021)**
+🎥 Sharing knowledge on YouTube: **[Scientia Dose](https://www.youtube.com/@ScientiaDose)**  
+🚀 Turning data into insights with AI & ML!  
+
 
 ---
 
