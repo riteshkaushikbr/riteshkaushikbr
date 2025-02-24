@@ -1,4 +1,5 @@
-![LinkedIn Banner](https://github.com/user-attachments/assets/92434b62-490b-4dd9-9f40-fa3632610eb9)
+![LinkedIn Banner](https://github.com/user-attachments/assets/6ca2189b-02ef-4ff4-b74c-0032b5342489)
+
 
 📍 Based in Bengaluru, India 🇮🇳  
 🎓 B.Sc. Mathematics Graduate | Data Scientist | AI Enthusiast  
