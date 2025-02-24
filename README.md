@@ -1,12 +1,8 @@
-![LinkedIn Banner](https://github.com/user-attachments/assets/6ca2189b-02ef-4ff4-b74c-0032b5342489)
+
+![LinkedIn Banner](https://github.com/user-attachments/assets/2883d5a9-e664-4e34-ada4-2d641a783531)
 
 
-📍 Based in Bengaluru, India 🇮🇳  
-🎓 B.Sc. Mathematics Graduate | Data Scientist | AI Enthusiast  
-💡 Passionate about AI, Machine Learning, and Data Science  
-📊 Exploring Deep Learning, NLP, and Generative AI  
-🎥 Sharing knowledge on YouTube: **[Scientia Dose](https://www.youtube.com/@ScientiaDose)**  
-🚀 Turning data into insights with AI & ML!  
+
 
 
 ---
